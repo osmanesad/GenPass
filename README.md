@@ -1,5 +1,5 @@
 # GenPass
-RasgelePass, iOS üzerinde çalışan rastgele parola üreten uygulama.
+RastgelePass, iOS üzerinde çalışan rastgele parola üreten uygulama.
 
 Hedefler:
 
