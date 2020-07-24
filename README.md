@@ -16,7 +16,7 @@ kendi yazdığı parolayıda kaydetme seçeneği olacak
 
 Uygulamanın şuanki görünümü.
 
-![genpass](https://user-images.githubusercontent.com/9142018/88354103-80d5a780-cd68-11ea-8223-0702e7e9bfae.gif)
+![genpass](https://user-images.githubusercontent.com/9142018/88354303-22f58f80-cd69-11ea-9568-e61505ab3594.gif)
 
 
 
