@@ -1,6 +1,8 @@
 # GenPass
 RastgelePass, iOS üzerinde çalışan rastgele parola üreten uygulama.
 
+İncelemenizi tavsiye ettiğim yazı: [Storyboard ve SwiftUI Arasındaki Farklar](https://medium.com/@osmanesad/storyboard-ve-swiftui-aras%C4%B1ndaki-farklar-6eae612e0547)
+
 Hedefler:
 
 #Parola oluşturulan alandan direkt kopyalama butonu eklenecek.
